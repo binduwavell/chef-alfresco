@@ -1,6 +1,9 @@
 Metrics/LineLength:
-  Max: 10000
+  Enabled: false
 
+Style/ElseAlignment:
+  Enabled: false
+  
 Style/FileName:
   Enabled: False
 
